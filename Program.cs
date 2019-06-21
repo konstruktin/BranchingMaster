@@ -14,7 +14,7 @@ namespace EjemploEnum
 
             if (value == Importance.Trivial)
             {
-                Console.WriteLine("Not true");
+                Console.WriteLine("True");
             }
 
             Singleton mySingleton = Singleton.Instance;
